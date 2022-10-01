@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.led.gen.tr/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.led.gen.tr/</loc>
+</url>
+<url>
+<loc>https://www.led.gen.tr/dekoratif-aydinlatmada-led-lambalar/</loc>
+<lastmod>2022-10-01T22:24:12+03:00</lastmod>
+<image:image>
+<image:loc>https://www.led.gen.tr/media/posts/1/dekoratif-led-aydinlatma-yatak-odasi-3.jpg</image:loc>
+<image:title><![CDATA[Sarı renkli tavan LED aydınlatma uygulanmış yatak odası]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.led.gen.tr/media/posts/1/dekoratif-led-aydinlatma-yatak-odasi-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.led.gen.tr/hakkimizda/</loc>
+<lastmod>2022-10-01T23:19:50+03:00</lastmod>
+<image:image>
+<image:loc>https://www.led.gen.tr/media/posts/2/dekoratif-led-aydinlatma-koridor-1-2.jpg</image:loc>
+<image:title><![CDATA[dekoratif led aydınlatma uygulaması yapılmış bir koridor]]></image:title>
+</image:image>
+</url>
+</urlset>
